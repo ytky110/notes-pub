@@ -22,8 +22,9 @@ $$
 $$
 \begin{align*}
 \sqrt{2} \cdot \sqrt{5} &= \sqrt{10} \\
-\sqrt{18} = \sqrt{2 \cdot 3^2} &= 3\sqrt{2} \\
-\sqrt{12} + \sqrt{27} = 2\sqrt{3} + 3\sqrt{3} &= 5\sqrt{3}
+\sqrt{18} &= \sqrt{2 \cdot 3^2} = 3\sqrt{2} \\
+\sqrt{12} + \sqrt{27} &= \sqrt{2^2 \cdot 3} + \sqrt{3^2 \cdot 3} \\
+&= 2\sqrt{3} + 3\sqrt{3} = 5\sqrt{3}
 \end{align*}
 $$
 
