@@ -21,3 +21,51 @@
 - eau potable: ~ eau douce, l'eau qu'on peut consommer
 - stress hydrique: un pays qui a moins de 1700 m³ d'eau par année par habitant.
 - pénurie d'eau: "" moins de 1000m³ ""
+
+## Module A
+
+- mer (liquide)
+- atmosphère (gaz)
+- surface (liquide)
+  - lacs
+  - cours d'eau
+- biosphère
+- souterraines (liquide)
+- glacier (solides)
+
+Le débit des cours d'eau alimentés par les glaciers va progressivement diminuer.
+Il n'y aura plus suffisamment d'eau pour couvrir les besoins des populations.
+
+## Modules B
+
+- domestique
+  - lavabo
+  - douche, baignoire
+  - machine à laver
+  - lave-vaisselle
+  - évier
+  - chasse d0eau
+  - espace extérieur
+- virtuelle
+
+# Modules D
+
+ressources, usages:
+
+- halieutiques, aquacultures
+- sables
+- terres rares, minerais
+- tourismes
+- pétroles
+
+problèmes:
+
+- polution
+- gène fondation ville (tourismes)
+- écosystème menacé (manque de poisson)
+- pêches nondurables
+- augmentations prix
+- impact paysages (sables)
+  - politiques
+  - agriculture
+  - tourisme
