@@ -36,7 +36,7 @@
 Le débit des cours d'eau alimentés par les glaciers va progressivement diminuer.
 Il n'y aura plus suffisamment d'eau pour couvrir les besoins des populations.
 
-## Modules B
+## Module B
 
 - domestique
   - lavabo
@@ -48,7 +48,7 @@ Il n'y aura plus suffisamment d'eau pour couvrir les besoins des populations.
   - espace extérieur
 - virtuelle
 
-## Modules D
+## Module D
 
 ressources, usages:
 
@@ -69,3 +69,37 @@ problèmes:
   - politiques
   - agriculture
   - tourisme
+
+## Module E
+
+### 14.
+
+La Turquie peut contrôler l'eau avec des barrages
+et la poluer avec des usages agricoles,
+ce qui fait qu'il n'y a pas assez pour répondre
+aux besoins de la population d'Irak.
+
+### 15.
+
+1. Acteurs:
+  - population chilienne
+  - grands agriculteurs (monoculture d'avocats)
+  - l'Etat
+
+2. Sècheresse
+  - réchauffement climatique
+  - privatisation de l'eau
+
+3. Paradoxe
+  - y'a beaucoup d'eau (80% des glaciers d'Amérique du Sud)
+  - pas assez pou rla population (2% de l'eau / $-50 \mathrm{L}$ par jour)
+
+4. Objectifs
+  - pop: avoir plus d'eau
+  - propr. grandes exploitations:   bcp de revenus (exportations)
+
+5. Manière de lutter
+  1. élire des personnes défendent la cause de la population au parlement
+  2. changer les lois
+  3. interdire la privatisation des sources d'eau
+
